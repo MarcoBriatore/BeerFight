@@ -11,6 +11,15 @@ import java.util.List;
 import java.util.Random;
 import java.util.stream.Collectors;
 
+
+   /*
+
+        El combate final con el dueño de la taberna lo hago con todos los participantes que lograron pasar la primera  parte del torneo.
+        En caso de que el jugador en la final(Vs dueño de la taberna) ocurra un empate lo declare para que gane el jugador
+        ,debido a los buff que contiene la clase dueño de la taberna.
+
+    */
+
 public class Main {
 
     public static void main(String [] args)
