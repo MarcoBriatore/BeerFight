@@ -6,7 +6,7 @@
 ## POM
  >Un modelo de objeto de proyecto o POM es la unidad fundamental de trabajo en Maven. Es un archivo XML que contiene información sobre el proyecto y los detalles de configuración utilizados por Maven para construir el proyecto. Contiene valores por defecto para la mayoría de los proyectos. Ejemplos de esto es el directorio de compilación, que es target; el directorio fuente, que es src / main / java; el directorio fuente de prueba, que es src / test / java; y así. Al ejecutar una tarea o un objetivo, Maven busca el POM en el directorio actual. Lee el POM, obtiene la información de configuración necesaria y luego ejecuta el objetivo.
 
- Algunas de las configuraciones que se pueden especificar en el POM son las dependencias del proyecto, los complementos u objetivos que se pueden ejecutar, los perfiles de compilación, etc. También se puede especificar otra información, como la versión del proyecto, descripción, desarrolladores, listas de correo y similares.
+ Algunas de las configuraciones que se pueden especificar en el POM son las dependencias del proyecto, los complementos u objetivos que se pueden ejecutar, los perfiles de compilación. También se puede especificar otra información, como la versión del proyecto, descripción, desarrolladores, listas de correo y similares.
 
 ##  ArtifactId y Archetype
 
