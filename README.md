@@ -9,7 +9,7 @@
  Algunas de las configuraciones que se pueden especificar en el POM son las dependencias del proyecto, los complementos u objetivos que se pueden ejecutar, los perfiles de compilación. También se puede especificar otra información, como la versión del proyecto, descripción, desarrolladores, listas de correo y similares.
 
 ##  ArtifactId y Archetype
-
+#### La diferencia que existe es que:
 *Un arquetipo(Archetype) es un patrón o modelo sobre el que se pueden desarrollar todas aquellas tareas que son de un mismo tipo. 
 Puede decirse que son plantillas, parametrizadas o configuradas para utilizar determinadas tecnologías que los desarrolladores utilizan como base para escribir y organizar el código de la aplicación.*
 
