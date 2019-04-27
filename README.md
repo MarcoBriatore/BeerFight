@@ -1,5 +1,4 @@
-# :beer: BeerFight :beer:
-# POC-STRATEGY
+# :beer: BeerFight :beer: (POC-STRATEGY)
 
 ## Maven
 >Maven es una herramienta de gestión de proyectos. Se basa en un fichero central, pom.xml, donde se define todo lo que necesita tu proyecto. Maven maneja las dependencias del proyecto, compila, empaqueta y ejecuta los test. Mediante plugins, permite hacer mucho mas, como por ejemplo generar los mapas de Hibernate a partir de una base de datos.
